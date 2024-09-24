@@ -1,6 +1,6 @@
-# 🎉 Angular Project README
+# First Front End Web Development Project Using Angular🌐🕸️
 
-Welcome to your Angular project! This document will guide you through creating, running, and debugging your Angular application. 🚀
+Welcome to OG Supermarket Website! This document will guide you through creating, running, and debugging your Angular application. 🚀
 
 ## 📦 Prerequisites
 
